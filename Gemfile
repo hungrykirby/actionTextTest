@@ -62,3 +62,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'solargraph', group: :development
 
 gem 'bootsnap', require: false
+gem 'slim-rails'
+gem 'webpacker', github: 'rails/webpacker'
