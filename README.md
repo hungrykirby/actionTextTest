@@ -1,24 +1,13 @@
-# README
+# Action Text のすごさを体感するサンプル
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+サンプルだけど、もしかすると普通にブログとして使うかもしれない
+使えるといいなあ。
+前のブログは `gatsby.js` で作っていたんだけど、なぜかローカルで動かなくなってしまったので、勉強のためにも `Rails` と `vscode` でやってみようかなと思った次第です。
+さて続くのかな。
 
-Things you may want to cover:
 
-* Ruby version
+というか文章書いて公開するなら `note` でいいよね。って話よ。
+勉強のためだから作っているけど
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+飽きたらやめます。
