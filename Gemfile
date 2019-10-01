@@ -65,3 +65,5 @@ gem 'solargraph', group: :development
 gem 'bootsnap', require: false
 gem 'slim-rails'
 gem 'webpacker', github: 'rails/webpacker'
+
+gem 'image_processing', '~> 1.2'
